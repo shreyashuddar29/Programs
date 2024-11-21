@@ -1,5 +1,5 @@
 //1)Selection Sort Algorithm:
-/*
+
 #include<iostream>
 using namespace std;
 int main()
@@ -24,7 +24,7 @@ int main()
     cout<<endl;
     return 0;
 }
-*/
+
 
 
 //2)Bubble Sort Algorithm:
