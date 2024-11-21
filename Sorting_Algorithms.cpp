@@ -28,7 +28,7 @@ int main()
 
 
 //2)Bubble Sort Algorithm:
-/*
+
 #include<iostream>
 using namespace std;
 int main(){
@@ -53,11 +53,11 @@ int main(){
         cout<<a[i]<<" ";
     return 0;
 }
-*/
+
 
 
 //3)Insertion Sort Algorithm:
-/*
+
 #include<iostream>
 using namespace std;
 int main(){
@@ -80,11 +80,11 @@ int main(){
     cout<<endl;
     return 0;
 }
-*/
+
 
 
 //4)Merge Sort Algorithm:
-/*
+
 #include<iostream>
 using namespace std;
 
@@ -150,11 +150,11 @@ int main(){
     cout<<endl;
     return 0;
 }
-*/
+
 
 
 //5)Quick Sort Algorithm:
-/*
+
 #include<iostream>
 using namespace std;
 
@@ -197,6 +197,6 @@ int main(){
     cout<<endl;
     return 0;
 }
-*/
+
 
 
