@@ -8,7 +8,7 @@
     * * * * * 
     * * * * *
 */
-/*#include<iostream>
+#include<iostream>
 using namespace std;
 int main()
 {
@@ -21,7 +21,7 @@ int main()
             cout<<"*  ";
         cout<<'\n';
     }
-}*/
+}
 
 
 //2.A hollow rectangle pattern:
@@ -32,7 +32,7 @@ int main()
     *       *
     * * * * *
 */
-/*#include<iostream>
+#include<iostream>
 using namespace std;
 int main()
 {
@@ -48,7 +48,7 @@ int main()
             cout<<"   ";
         cout<<endl;
     }
-}*/
+}
 
 
 //3.Inverted half pyramid:
@@ -59,7 +59,7 @@ int main()
     *  *
     *
 */
-/*#include<iostream>
+#include<iostream>
 using namespace std;
 int main()
 {
@@ -72,7 +72,7 @@ int main()
             cout<<"*  ";
         cout<<endl;
     }
-}*/
+}
 
 
 //4.Mirror of half pyramid:
@@ -83,7 +83,7 @@ int main()
        *  *  *  *
     *  *  *  *  *
 */
-/*#include<iostream>
+#include<iostream>
 using namespace std;
 int main()
 {
@@ -98,7 +98,7 @@ int main()
             cout<<"*  ";
         cout<<endl;
     }
-}*/
+}
 
 
 //5.Half pyramid using numbers:
@@ -109,7 +109,7 @@ int main()
     4  4  4  4
     5  5  5  5  5
 */
-/*#include<iostream>
+#include<iostream>
 using namespace std;
 int main()
 {
@@ -122,7 +122,7 @@ int main()
             cout<<i<<"  ";
         cout<<endl;
     }
-}*/
+}
 
 
 //6.Floyd's Triangle:
@@ -133,7 +133,7 @@ int main()
     7       8       9       10
     11      12      13      14      15
 */
-/*#include<iostream>
+#include<iostream>
 using namespace std;
 int main()
 {
@@ -149,7 +149,7 @@ int main()
         }
         cout<<endl;
     }
-}*/
+}
 
 
 //7.Butterfly Pattern:
@@ -163,7 +163,7 @@ int main()
   * *         * *
   *             *  
 */
-/*#include<iostream>
+#include<iostream>
 using namespace std;
 int main(){
     int n,i,j,s;
@@ -190,7 +190,7 @@ int main(){
             cout<<"* ";
         cout<<endl;
     }
-}*/
+}
 
 //--Advanced Pattern Problems--
 
@@ -202,7 +202,7 @@ int main(){
     1 2
     1
 */
-/*
+
 #include<iostream>
 using namespace std;
 int main(){
@@ -214,7 +214,7 @@ int main(){
             cout<<j<<" ";
         cout<<endl;
     }
-}*/
+}
 
 
 //9.Binary triangle:
@@ -225,7 +225,7 @@ int main(){
     0 1 0 1
     1 0 1 0 1
 */
-/*#include<iostream>
+#include<iostream>
 using namespace std;
 int main(){
     int n;
@@ -240,7 +240,7 @@ int main(){
         }
         cout<<endl;
     }
-}*/
+}
 
 //10.Rhombus Pattern:
 /*
@@ -250,7 +250,7 @@ int main(){
       * * * * *
     * * * * *
 */
-/*#include<iostream>
+#include<iostream>
 using namespace std;
 int main(){
     int n,i,j,s;
@@ -263,7 +263,7 @@ int main(){
             cout<<"* ";
         cout<<endl;
     }
-}*/
+}
 
 
 //11.Number Pattern:
@@ -274,7 +274,7 @@ int main(){
       1   2   3   4
     1   2   3   4   5
 */
-/*#include<iostream>
+#include<iostream>
 using namespace std;
 int main(){
     int n,i,j,s;
@@ -288,7 +288,7 @@ int main(){
             cout<<j<<"   ";
         cout<<endl;
     }
-}*/
+}
 
 
 //12.Palindromic Pattern:
@@ -299,7 +299,7 @@ int main(){
       4 3 2 1 2 3 4
     5 4 3 2 1 2 3 4 5  
 */
-/*#include<iostream>
+#include<iostream>
 using namespace std;
 int main(){
     int n,i,j,k;
@@ -316,7 +316,7 @@ int main(){
             cout<<k++<<" ";
         cout<<endl;
     }
-}*/
+}
 
 
 //13.Star Pattern:
@@ -330,7 +330,7 @@ int main(){
         * * *
           *
 */
-/*#include<iostream>
+#include<iostream>
 using namespace std;
 int main(){
     int n,i,j,s;
@@ -350,7 +350,7 @@ int main(){
             cout<<"* ";
         cout<<endl;
     }
-}*/
+}
 
 
 //14.Zig-Zag Pattern:
@@ -359,7 +359,7 @@ int main(){
       *   *   *   *
     *       *       *
 */
-/*#include<iostream>
+#include<iostream>
 using namespace std;
 int main(){
     int n,i,j;
@@ -374,5 +374,5 @@ int main(){
         }
         cout<<endl;
     }
-}*/
+}
 
